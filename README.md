@@ -1,2 +1,2 @@
 # c_practice_program
- some practice program
+Some random C programs which I thouhgt to keep it in this repo.
